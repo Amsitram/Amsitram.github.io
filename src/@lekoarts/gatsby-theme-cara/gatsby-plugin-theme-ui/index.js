@@ -7,7 +7,7 @@ const theme = merge(tailwind, {
     useCustomProperties: true,
   },
   fonts: {
-    body: 'Priori Sans OT'
+    body: 'priori-sans'
   },
   colors: {
     primary: tailwind.colors.orange[4],
