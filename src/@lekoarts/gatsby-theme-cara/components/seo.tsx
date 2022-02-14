@@ -52,7 +52,7 @@ const SEO = ({ title = ``, description = ``, pathname = ``, image = ``, children
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       <link rel="icon" type="image/png" href="/favicon.png" />
       <style>
-      @import url(//db.onlinewebfonts.com/c/a386e9329a4f78a5342231b909cd0f4e?family=Priori+Sans+OT);
+      @import url(https://db.onlinewebfonts.com/c/a386e9329a4f78a5342231b909cd0f4e?family=Priori+Sans+OT);
       </style>
     </Helmet>
   )
